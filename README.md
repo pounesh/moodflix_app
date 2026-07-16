@@ -110,3 +110,9 @@ TMDB services may be blocked in some countries.
 ## 👨‍💻 Author
 
 Developed by **Pone**
+
+
+
+<img width="968" height="767" alt="movie1" src="https://github.com/user-attachments/assets/a83ff1f6-3194-49bc-8785-42207887b7f9" />
+<img width="966" height="761" alt="movie2" src="https://github.com/user-attachments/assets/1d85f989-6754-487b-b8d4-9ff131709614" />
+
